@@ -1,1 +1,0 @@
-This is a text file that was edited from within the GIT GUI
